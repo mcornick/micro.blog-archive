@@ -1,0 +1,90 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Mark Cornick",
+	"icon": "https://micro.blog/mcornick/avatar.jpg",
+	"home_page_url": "https://mcornick.blog/",
+	"feed_url": "https://mcornick.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mcornick.micro.blog/2023/03/07/super-snooze-bros.html",
+				
+				"content_html": "<p>Super Snooze Bros.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Super Snooze Bros. \n\n<img src=\"uploads/2023/a3fa2c4cfc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-07T13:27:22-05:00",
+				"url": "https://mcornick.blog/2023/03/07/super-snooze-bros.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/03/05/somebody-at-the.html",
+				
+				"content_html": "<p>Somebody at the Master lock company said “wouldn’t it be KEWL if we did this!” without thinking that this would happen.</p>\n<p>Sometimes things are designed the way they are for a reason. Consider before breaking the mold.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Somebody at the Master lock company said “wouldn’t it be KEWL if we did this!” without thinking that this would happen.\n\nSometimes things are designed the way they are for a reason. Consider before breaking the mold. \n\n<img src=\"uploads/2023/e59be2db12.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-05T23:30:04-05:00",
+				"url": "https://mcornick.blog/2023/03/05/somebody-at-the.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/03/04/currently-on-tv.html",
+				
+				"content_html": "<p>Currently on TV: outdoor box lacrosse. Three words that I have never before used in that sequence.</p>\n",
+				"content_text": "Currently on TV: outdoor box lacrosse. Three words that I have never before used in that sequence. \n",
+				"date_published": "2023-03-04T23:36:40-05:00",
+				"url": "https://mcornick.blog/2023/03/04/currently-on-tv.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/03/02/rip-wayne-shorter.html",
+				
+				"content_html": "<p>RIP Wayne Shorter, one of the greatest as a performer, composer, and improviser.</p>\n",
+				"content_text": "RIP Wayne Shorter, one of the greatest as a performer, composer, and improviser.\n",
+				"date_published": "2023-03-02T18:49:14-05:00",
+				"url": "https://mcornick.blog/2023/03/02/rip-wayne-shorter.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/03/02/unwinding-with-some.html",
+				
+				"content_html": "<p>Unwinding with some John Coltrane. 🎷</p>\n",
+				"content_text": "Unwinding with some John Coltrane. 🎷\n",
+				"date_published": "2023-03-02T00:05:47-05:00",
+				"url": "https://mcornick.blog/2023/03/02/unwinding-with-some.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/02/28/its-been-one.html",
+				
+				"content_html": "<p>It’s been one of those stalemate mornings where I haven’t felt like waking up the dog to go for a walk, and he hasn’t felt like waking me, either. 🥱</p>\n",
+				"content_text": "It’s been one of those stalemate mornings where I haven’t felt like waking up the dog to go for a walk, and he hasn’t felt like waking me, either. 🥱\n",
+				"date_published": "2023-02-28T13:15:39-05:00",
+				"url": "https://mcornick.blog/2023/02/28/its-been-one.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/02/27/as-a-white.html",
+				
+				"content_html": "<p>As a white kid growing up in Charlottesville in the 70s and 80s, this is the sort of thing I wasn’t taught about: <a href=\"https://www.pbs.org/newshour/arts/images-of-black-life-black-joy-are-immortalized-in-historic-charlottesville-portraits\">www.pbs.org/newshour/&hellip;</a></p>\n<p>Never stop learning, even when what you learn isn’t always pleasant.</p>\n",
+				"content_text": "As a white kid growing up in Charlottesville in the 70s and 80s, this is the sort of thing I wasn’t taught about: [www.pbs.org/newshour/...](https://www.pbs.org/newshour/arts/images-of-black-life-black-joy-are-immortalized-in-historic-charlottesville-portraits)\n\nNever stop learning, even when what you learn isn’t always pleasant. \n",
+				"date_published": "2023-02-27T14:14:09-05:00",
+				"url": "https://mcornick.blog/2023/02/27/as-a-white.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/02/26/someone-reported-a.html",
+				
+				"content_html": "<p>Someone reported a bug in my software BOO!</p>\n<p>But that means someone is using my software YAY!</p>\n<p>But I can&rsquo;t reproduce the bug BOO!</p>\n<p>But I&rsquo;m working with the person to reproduce it YAY!</p>\n",
+				"content_text": "Someone reported a bug in my software BOO!\r\n\r\nBut that means someone is using my software YAY!\r\n\r\nBut I can't reproduce the bug BOO!\r\n\r\nBut I'm working with the person to reproduce it YAY!\n",
+				"date_published": "2023-02-26T12:17:54-05:00",
+				"url": "https://mcornick.blog/2023/02/26/someone-reported-a.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/02/25/a-lazy-saturday.html",
+				
+				"content_html": "<p>A lazy Saturday here, hanging out with my dog and watching some soccer.</p>\n<p>⚽️ Now: Nashville v. NYCFC</p>\n<p>The first MLS match of the Apple TV era. It&rsquo;s about what I expected - neither worse than prior-year ESPN/FOX coverage, nor better.</p>\n<p>⚽️ Later: DC United v. Toronto</p>\n<p>I don&rsquo;t get to matches much any more, but I&rsquo;m still Black and Red. After last year, the only thing for DCU to do this year is climb out of the basement. Cautiously optimistic.</p>\n<p>⚽️ Tomorrow: USMNT U17 v. Mexico</p>\n<p>For the CONCACAF men&rsquo;s U17 championship. If the US wins, we&rsquo;ll hold every CONCACAF trophy for national teams, of any age or gender, playing outdoors on grass/turf. (i.e, we won&rsquo;t be the champions of beach soccer or futsal.)</p>\n",
+				"content_text": "A lazy Saturday here, hanging out with my dog and watching some soccer.\n\n⚽️ Now: Nashville v. NYCFC\n\nThe first MLS match of the Apple TV era. It's about what I expected - neither worse than prior-year ESPN/FOX coverage, nor better.\n\n⚽️ Later: DC United v. Toronto\n\nI don't get to matches much any more, but I'm still Black and Red. After last year, the only thing for DCU to do this year is climb out of the basement. Cautiously optimistic.\n\n⚽️ Tomorrow: USMNT U17 v. Mexico\n\nFor the CONCACAF men's U17 championship. If the US wins, we'll hold every CONCACAF trophy for national teams, of any age or gender, playing outdoors on grass/turf. (i.e, we won't be the champions of beach soccer or futsal.)\n",
+				"date_published": "2023-02-25T17:57:44-05:00",
+				"url": "https://mcornick.blog/2023/02/25/a-lazy-saturday.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/02/25/hello-microblog.html",
+				
+				"content_html": "<p>Hello, micro.blog. 👋🏻</p>\n",
+				"content_text": "Hello, micro.blog. 👋🏻\n",
+				"date_published": "2023-02-25T16:14:30-05:00",
+				"url": "https://mcornick.blog/2023/02/25/hello-microblog.html"
+			}
+	]
+}
