@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://mcornick.micro.blog/2023/03/13/i-have-to.html",
+				
+				"content_html": "<p>I have to work in the morning? I have no idea where this weekend went.</p>\n<p>(This post is not about daylight savings time.)</p>\n",
+				"content_text": "I have to work in the morning? I have no idea where this weekend went.\n\n(This post is not about daylight savings time.)\n",
+				"date_published": "2023-03-13T01:07:33-04:00",
+				"url": "https://mcornick.blog/2023/03/13/i-have-to.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/03/10/its-about-time.html",
+				
+				"content_html": "<p>It&rsquo;s about time for that 2:00 caffeine injection. ☕️</p>\n",
+				"content_text": "It's about time for that 2:00 caffeine injection. ☕️\n",
+				"date_published": "2023-03-10T15:14:18-04:00",
+				"url": "https://mcornick.blog/2023/03/10/its-about-time.html"
+			},
+			{
+				"id": "http://mcornick.micro.blog/2023/03/08/that-thing-where.html",
+				
+				"content_html": "<p>That thing where your music player&rsquo;s random shuffle lands on Riley&rsquo;s In C. All 42 minutes of it. Yep, I have a strangely diverse music collection.</p>\n",
+				"content_text": "That thing where your music player's random shuffle lands on Riley's In C. All 42 minutes of it. Yep, I have a strangely diverse music collection.\n",
+				"date_published": "2023-03-08T01:08:25-04:00",
+				"url": "https://mcornick.blog/2023/03/08/that-thing-where.html"
+			},
+			{
 				"id": "http://mcornick.micro.blog/2023/03/07/super-snooze-bros.html",
 				
 				"content_html": "<p>Super Snooze Bros.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Super Snooze Bros. \n\n<img src=\"uploads/2023/a3fa2c4cfc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-07T13:27:22-05:00",
+				"date_published": "2023-03-07T14:27:22-04:00",
 				"url": "https://mcornick.blog/2023/03/07/super-snooze-bros.html"
 			},
 			{
@@ -19,7 +43,7 @@
 				
 				"content_html": "<p>Somebody at the Master lock company said “wouldn’t it be KEWL if we did this!” without thinking that this would happen.</p>\n<p>Sometimes things are designed the way they are for a reason. Consider before breaking the mold.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Somebody at the Master lock company said “wouldn’t it be KEWL if we did this!” without thinking that this would happen.\n\nSometimes things are designed the way they are for a reason. Consider before breaking the mold. \n\n<img src=\"uploads/2023/e59be2db12.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-05T23:30:04-05:00",
+				"date_published": "2023-03-06T00:30:04-04:00",
 				"url": "https://mcornick.blog/2023/03/05/somebody-at-the.html"
 			},
 			{
